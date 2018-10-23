@@ -8,7 +8,7 @@
     "deep-equal": "^1.0.1",
     "dns-equal": "^1.0.0",
     "dns-txt": "^2.0.2",
-    "multicast-dns": "pevecyan/multicast-dns#0bc9243c81dea714472df11aa258a258492baa00",
+    "multicast-dns": "pevecyan/multicast-dns#8cf69b25f91c5bae4908cb2ff6c75cdc02b9d21e",
     "multicast-dns-service-types": "^1.1.0"
   },
   "devDependencies": {

@@ -1,5 +1,5 @@
 {
-  "name": "bonjour-hap",
+  "name": "bonjour",
   "version": "3.5.1",
   "description": "A Bonjour/Zeroconf implementation in pure JavaScript (for HAP)",
   "main": "index.js",
